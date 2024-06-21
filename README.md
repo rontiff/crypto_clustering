@@ -1,0 +1,1 @@
+This project leverages Python and unsupervised learning techniques to analyze and predict if the price of cryptocurrencies is affected by 24-hour or 7-day price changes. By using clustering algorithms, we aim to identify patterns and relationships in the price movements of various cryptocurrencies.
